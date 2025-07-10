@@ -22,8 +22,8 @@
 4. **Common Language**: "Justice", "Unfair", "Unite" were top protest terms
 
 ## How to Use
-1. Collect data using `data_collection_template.xlsx`
-2. Run `analysis_notebook.ipynb`
+1. Collect data using `kenyan_genz_posts.csv`
+2. Run `Genzanalysis.ipynb`
 3. Customize detection parameters:
    ```python
    # In analyze_protest_signals() function:
